@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0,Channel 1
-http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/1.m3u8
+http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/1
 #EXTINF:0,Channel 2
-http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/2.m3u8
+http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/2
 #EXTINF:0,Channel 3
-http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/3.m3u8
+http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/3
 #EXTINF:0,Channel 4
-http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/4.m3u8
+http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/4
 #EXTINF:0,Channel 5
 http://tvserver3.roarzone.info:25461/live/nayeem/roarzone/5.m3u8
 #EXTINF:0,Channel 6
