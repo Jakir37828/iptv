@@ -1,67 +1,97 @@
 #EXTM3U
 #EXTINF:0,Channel 1
-http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
+http://103.240.44.26/R-TV/index.fmp4.m3u8
 #EXTINF:0,Channel 2
-http://xtream.efiberbd.net:8080/live/mkaua/stream/8.m3u8
+http://103.240.44.26/R-TV/tracks-a1/index.fmp4.m3u8
 #EXTINF:0,Channel 3
-http://xtream.efiberbd.net:8080/live/mkaua/stream/11.m3u8
+http://103.240.44.26/Somoy-TV/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 4
-http://xtream.efiberbd.net:8080/live/mkaua/stream/12.m3u8
+http://103.240.44.26/Somoy-TV/index.fmp4.m3u8
 #EXTINF:0,Channel 5
-http://xtream.efiberbd.net:8080/live/mkaua/stream/18.m3u8
+http://103.240.44.26/Indpendent-TV/index.fmp4.m3u8
 #EXTINF:0,Channel 6
-http://45.127.244.7:8080/hls/channel2.m3u8
+http://103.240.44.26/GTV-HD/index.fmp4.m3u8
 #EXTINF:0,Channel 7
-http://xtream.efiberbd.net:8080/live/mkaua/stream/25.m3u8
+http://103.240.44.26/DBC-News/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 8
-http://xtream.efiberbd.net:8080/live/mkaua/stream/26.m3u8
+http://103.240.44.26/DBC-News/index.fmp4.m3u8
 #EXTINF:0,Channel 9
-http://xtream.efiberbd.net:8080/live/mkaua/stream/28.m3u8
+http://103.240.44.26/ATN-News/index.fmp4.m3u8
 #EXTINF:0,Channel 10
-http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
+http://103.240.44.26/ATN-News/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 11
-http://xtream.efiberbd.net:8080/live/mkaua/stream/42.m3u8
+http://103.240.44.26/NTV-HD/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 12
-http://1tv1.net:8080/live/01007888688/28464975/55387.m3u8
+http://103.240.44.26/NTV-HD/index.fmp4.m3u8
 #EXTINF:0,Channel 13
-http://1tv1.net:8080/live/01007888688/28464975/55388.m3u8
+http://103.240.44.26/ATN-Bangla/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 14
-http://1tv1.net:8080/live/01007888688/28464975/55389.m3u8
+http://103.240.44.26/ATN-Bangla/index.fmp4.m3u8
 #EXTINF:0,Channel 15
-http://1tv1.net:8080/live/01007888688/28464975/55390.m3u8
+http://103.240.44.26/Banglavision/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 16
-http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
+http://103.240.44.26/Banglavision/index.fmp4.m3u8
 #EXTINF:0,Channel 17
-http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
+http://103.240.44.26/Channel-9/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 18
-http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+http://103.240.44.26/Channel-9/index.fmp4.m3u8
 #EXTINF:0,Channel 19
-http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
+http://103.240.44.26/MY-TV/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 20
-http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
+http://103.240.44.26/MY-TV/index.fmp4.m3u8
 #EXTINF:0,Channel 21
-http://45.127.244.7:8080/hls/channel1.m3u8
+http://103.240.44.26/Masranga-HD/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 22
-http://45.127.244.7:8080/hls/channel3.m3u8
+http://103.240.44.26/Masranga-HD/index.fmp4.m3u8
 #EXTINF:0,Channel 23
-http://45.127.244.7:8080/hls/channel6.m3u8
+http://103.240.44.26/Boishakhi-TV/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 24
-http://45.127.244.7:8080/hls/channel7.m3u8
+http://103.240.44.26/Boishakhi-TV/index.fmp4.m3u8
 #EXTINF:0,Channel 25
-http://45.127.244.7:8080/hls/channel9.m3u8
+http://103.240.44.26/Bangla-TV/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 26
-https://11live02.akamaized.net/FTX2_WILLOW/playlist.m3u8
+http://103.240.44.26/Bangla-TV/index.fmp4.m3u8
 #EXTINF:0,Channel 27
-http://xtream.efiberbd.net:8080/live/mkaua/stream/32.m3u8
+http://103.240.44.26/Mohona-TV/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 28
-http://xtream.efiberbd.net:8080/live/mkaua/stream/33.m3u8
+http://103.240.44.26/Mohona-TV/index.fmp4.m3u8
 #EXTINF:0,Channel 29
-http://xtream.efiberbd.net:8080/live/mkaua/stream/34.m3u8
+http://103.240.44.26/BTV-Chottogram/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 30
-http://xtream.efiberbd.net:8080/live/mkaua/stream/35.m3u8
+http://103.240.44.26/BTV-Chottogram/index.fmp4.m3u8
 #EXTINF:0,Channel 31
-http://xtream.efiberbd.net:8080/live/mkaua/stream/41.m3u8
+http://103.240.44.26/BTV-HD/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,Channel 32
-http://45.127.244.7:8080/hls/channel8.m3u8
+http://103.240.44.26/BTV-HD/index.fmp4.m3u8
 #EXTINF:0,Channel 33
-http://89.187.175.143/4128/index.m3u8
+http://103.240.44.26/And-Picture/tracks-v1/index.fmp4.m3u8
+#EXTINF:0,Channel 34
+http://103.240.44.26/And-Picture/index.fmp4.m3u8
+#EXTINF:0,Channel 35
+http://103.240.44.26/A-Sports/tracks-v1/index.fmp4.m3u8
+#EXTINF:0,Channel 36
+http://103.240.44.26/A-Sports/index.fmp4.m3u8
+#EXTINF:0,Channel 37
+http://103.240.44.26/Astro-Cricket/tracks-a1/index.fmp4.m3u8
+#EXTINF:0,Channel 38
+http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
+#EXTINF:0,Channel 39
+http://103.240.44.26/Star-Sports-2-HD/tracks-v1/index.fmp4.m3u8
+#EXTINF:0,Channel 40
+http://103.240.44.26/Star-Sports-2-HD/index.fmp4.m3u8
+#EXTINF:0,Channel 41
+http://103.240.44.26/T-Sports-HD/tracks-v1/index.fmp4.m3u8
+#EXTINF:0,Channel 42
+http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+#EXTINF:0,Channel 43
+http://103.240.44.26/NAT-Geo-Wild/tracks-v1/index.fmp4.m3u8
+#EXTINF:0,Channel 44
+http://103.240.44.26/NAT-Geo-Wild/index.fmp4.m3u8
+#EXTINF:0,Channel 45
+http://103.240.44.26/And-Flix-HD/tracks-v1/index.fmp4.m3u8
+#EXTINF:0,Channel 46
+http://103.240.44.26/And-Flix-HD/index.fmp4.m3u8
+#EXTINF:0,Channel 47
+http://103.240.44.26/And-Prive-HD/tracks-v1/index.fmp4.m3u8
+#EXTINF:0,Channel 48
+http://103.240.44.26/And-Prive-HD/index.fmp4.m3u8
